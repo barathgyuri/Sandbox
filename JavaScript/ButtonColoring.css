@@ -1,0 +1,13 @@
+.container-1{
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 75%;
+}
+.flex-box-pic-color{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+}
